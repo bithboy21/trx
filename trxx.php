@@ -1,5 +1,5 @@
 <?php
-$reff = "reff nte";
+$reff = "QTRX1529937";
 
 while(true){
     for($i = 0; $i <2; $i++){
